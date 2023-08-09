@@ -1,7 +1,7 @@
 # Internsavy_Project
 It contains internsavy internship projects
 # 1. Interface Calculator project:
-we define a Calculator interface with four methods: add, subtract, multiply, and divide. Then, we implement the interface in the BasicCalculator class.
+It is a Calculator interface with four methods: add, subtract, multiply, and divide. Then, we implement the interface in the BasicCalculator class.
 
 In the Main class, we create an instance of the BasicCalculator and use a Scanner to read user input for two numbers and the desired operation. Based on the user's choice, we call the appropriate method from the Calculator interface to perform the calculation and display the result.
 
